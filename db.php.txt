@@ -1,0 +1,14 @@
+<?php
+$host = "localhost";
+$port = "3307"; // Use 3306 if your XAMPP is on default port
+$user = "root";
+$password = "";
+$database = "shop_db";
+
+$conn = new mysqli($host, $user, $password, $database, $port);
+
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+?>

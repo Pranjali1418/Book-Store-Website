@@ -1,0 +1,5 @@
+<div class="credit">© 2025 | All rights reserved by <span>Pranjali Chivate</span></div>
+<a href="#"><i class="fas fa-phone"></i> +91-9876543210 </a>
+<a href="#"><i class="fas fa-phone"></i> +91-9988776655 </a>
+<a href="#"><i class="fas fa-envelope"></i> pranjalichivate@gmail.com </a>
+<a href="#"><i class="fas fa-map-marker-alt"></i> Rajwada Chowk, DKTE College, Ichalkaranji </a>

@@ -1,0 +1,16 @@
+<?php
+
+// Database connection settings
+$host = "localhost";
+$user = "root";
+$password = "";
+$database = "shop_db";
+$port = 3306; // or 3306 if your MySQL is on the default port
+
+$conn = new mysqli($host, $user, $password, $database, $port);
+
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+?>
